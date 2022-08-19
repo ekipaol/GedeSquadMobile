@@ -16,6 +16,9 @@
     <color name="colorOnBackground">#7E8088</color>
     <color name="colorBackgroundTransparent">#00FFFFFF</color>
     <color name="colorBackgroundGrey1">#f7f7f7</color>
+    <color name="colorBackgroundGrey">#FCFCFD</color>
+
+
     <color name="colorBgBottomsheet">#cccccc</color>
 
     <color name="colorBgEdittext">#FBFBFB</color>
